@@ -1,3 +1,53 @@
+## 1.0.21 (03-04-2024)
+
+#### Improvements
+- Add testing for providers requiring authorization (Thanks to @k0mmsussert0d)
+- Add many network timezones (Thanks to @YogSottot)
+
+#### Fixes
+- Fix file browser not displaying correctly
+
+-----
+
+## 1.0.20 (27-03-2024)
+
+#### Improvements
+- Add many network timezones (Thanks to @YogSottot)
+- Update Python and JS dependencies
+
+#### Fixes
+- Correctly refresh exceptions cache (Thanks to @j-aub)
+- Update Trakt API endpoint (Thanks to @XxUnkn0wnxX and farni)
+- Fix occasional search issues with BTN provider
+
+-----
+
+## 1.0.19 (12-12-2023)
+
+#### Improvements
+- Add many network timezones (Thanks to @YogSottot)
+- Add a few new logos (Thanks to @purevertigo)
+- Update some Python dependencies
+
+#### Fixes
+- Add try/catch block around localStorage.setItem call (Thanks to @dotsam)
+- Validate webhook URL for Slack and Discord (Thanks to @sylwia-budzynska)
+
+-----
+
+## 1.0.18 (29-10-2023)
+
+#### Improvements
+- Update some JS and Python dependencies
+- Add a few new logos (Thanks to @purevertigo)
+- Update Yggtorrent domain (Thanks to @cpainchaud)
+
+#### Fixes
+- Don't overwrite manual post-processing delete preference
+- Fix color of show-header in light theme (Thanks to @cheese1)
+
+-----
+
 ## 1.0.17 (29-06-2023)
 
 #### New Features
